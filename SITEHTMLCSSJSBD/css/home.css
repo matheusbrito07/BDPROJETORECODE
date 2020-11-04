@@ -1,0 +1,70 @@
+
+#gifpromo{
+
+    border-radius: 15px;
+    height: 40%;
+    width: 100%;
+    margin: 3px;
+    padding: 0px;
+    display: block;
+    
+    
+}
+
+#tabeladepromo img{
+   
+    border-radius: 15px;
+    height: 8%;
+    width: 400px;
+    margin: 25px;
+    padding: 2px;
+    justify-content: space-between;
+    
+    
+}
+
+#tabeladepromo2 {
+    
+    height: 40%;
+    width: 100%;
+    margin: 17px auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+#tabeladepromo3{
+      
+    height: 40%;
+    width: 100%;
+    margin: 17px auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#marcas img {
+    border-radius: 15px;
+    height: 8%;
+    width: 200px;
+    margin: 30px;
+    padding: 4px;
+    justify-content: space-between;
+    
+}
+
+.naveguepelasmarcas{
+    font-family: sans-serif;
+    color: #6b4e93;
+    font-size: 40px;
+    text-align: center;
+    margin: 17px auto;
+    padding: 10px;
+}
+
+
+
+

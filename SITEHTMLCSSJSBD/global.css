@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+html,body{
+
+    
+    background-color:#d3d3d3;
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    
+    
+}
+
+
+
+nav {
+
+    height: 70px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #3a0656;
+    padding: 3px;
+    text-decoration: none;
+    display: flex;
+    border-radius: 15px;
+   
+
+}
+
+.logo {
+    
+   
+    width: 20%;
+    height: 100%;
+    
+
+}
+
+a {
+    
+    font-size: 20px;
+    height: 100px;
+    width: 15%;
+    margin: 15px;
+    padding: 0px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    
+
+}
+
+
+footer {
+    color: black;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-weight: bolder;
+    
+}

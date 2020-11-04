@@ -1,0 +1,35 @@
+#FaleConoscoTexto{
+    color: #6b4e93;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.TableContato{
+    color: black;
+    text-align:center
+}
+
+.TableContato{
+    border: 2px solid black;
+    color: black;
+    text-align:center ;
+}
+
+.TableContato2{
+
+    border: 2px solid black;
+    color: black;
+    text-align:center ;
+ }
+
+ #msg{
+    width: 400px;
+    height: 300px;
+ }
+
+ .Formadepagamento{
+    
+width: 100%;
+
+ }
